@@ -15,3 +15,4 @@ check it out [here](github.com/abhiram-labs/devops-git-live.git)
 - Docker Advanced
 - GitHub Actions
 - Jenkins
+- Kubernetes
