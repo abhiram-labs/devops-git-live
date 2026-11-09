@@ -3,3 +3,8 @@
 intro to git and github
 
 check it out [here](github.com/abhiram-labs/devops-git-live.git)
+
+## Topics
+
+Introduction to Devops and Cloud
+Linux for DevOps
