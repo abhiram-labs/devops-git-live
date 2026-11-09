@@ -13,3 +13,5 @@ check it out [here](github.com/abhiram-labs/devops-git-live.git)
 - GitHub Advanced
 - Docker Fundamentals
 - Docker Advanced
+- GitHub Actions
+- Jenkins
