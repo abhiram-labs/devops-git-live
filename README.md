@@ -11,4 +11,5 @@ check it out [here](github.com/abhiram-labs/devops-git-live.git)
 - Networking for DevOps
 - Git & GitHub Fundamentals
 - GitHub Advanced
-- Docker
+- Docker Fundamentals
+- Docker Advanced
