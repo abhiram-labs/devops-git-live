@@ -16,3 +16,9 @@ check it out [here](github.com/abhiram-labs/devops-git-live.git)
 - GitHub Actions
 - Jenkins
 - Kubernetes
+- AWS
+- Terraform
+- Ansible
+- Phase 2 MCQ Exam
+- Mini Project
+- Observability
