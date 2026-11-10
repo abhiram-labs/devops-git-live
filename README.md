@@ -4,6 +4,8 @@ intro to git and github
 
 check it out [here](github.com/abhiram-labs/devops-git-live.git)
 
+####  Hands-on are must
+
 ## Topics
 
 - Introduction to Devops and Cloud
@@ -21,4 +23,7 @@ check it out [here](github.com/abhiram-labs/devops-git-live.git)
 - Ansible
 - Phase 2 MCQ Exam
 - Mini Project
-- Observability
+- Observabilit
+- Jobs prep
+
+- [TBD]
